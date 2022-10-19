@@ -95,3 +95,5 @@ for i in range(num_etapas):
 
     print(f"La distancia recorrida es de: {cal_dist(vel_ini, tiempo, acel)}")
     dis_total += cal_dist(vel_ini, tiempo, acel)
+
+    #ESTA ES LA VERSION DE LA CALCULADORA 1.2
